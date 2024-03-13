@@ -1,0 +1,17 @@
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\bin\Debug\4915M_LAB.exe.config
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\bin\Debug\4915M_LAB.exe
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\bin\Debug\4915M_LAB.pdb
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\4915M_Lab.csproj.AssemblyReference.cache
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\Lab01.Lab01.resources
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\Lab01.Lab2a.Lab02a.resources
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\Lab01.Lab2b.Lab02b.resources
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\Lab01.Lab2c.frmStudents.resources
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\Lab01.Lab3a.Lab03a.resources
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\Lab01.Lab3b.Form1.resources
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\Lab01.Lab3c.Lab3c.resources
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\Lab01.Menu.resources
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\Lab01.Properties.Resources.resources
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\4915M_Lab.csproj.GenerateResource.cache
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\4915M_Lab.csproj.CoreCompileInputs.cache
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\4915M_LAB.exe
+C:\Users\su\Source\Repos\TTTANGLung\4915M_Lab\Lab01\obj\Debug\4915M_LAB.pdb
